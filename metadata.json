@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Factory AI Admin Dashboard",
+  "description": "An autonomous machine health monitoring system managing 9 industrial machines across 3 specialized plants. Features live IoT simulation, stochastic anomaly injection, and 10-second automated AI recovery cycles.",
+  "requestFramePermissions": []
+}
